@@ -7,19 +7,19 @@ Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/templ
 
 ### Portfolio 
 
-Portfolio projects are in '/_posts'
+Portfolio projects are in '[/_posts](/_posts)'
 
-Images are in '/img/portfolio'
+Images are in '[/img/portfolio](/img/portfolio)'
 
 ### About
 
-Images are in '/img/about/'
+Images are in '[/img/about/](/img/about/)'
 
 ### Team
 
-Team members and info are in '_config.yml'
+Team members and info are in '[_config.yml](_config.yml)'
 
-Images are in '/img/team/'
+Images are in '[/img/team/](/img/team/)'
 
 
 # Demo
