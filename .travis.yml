@@ -23,3 +23,5 @@ deploy:
   skip_cleanup: true
   provider: script
   script: aws s3 sync _site s3://cc2018.carpentrycon.org --delete
+  on:
+    branch: gh-pages
