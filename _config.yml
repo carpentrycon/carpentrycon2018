@@ -1,5 +1,5 @@
 url: https://cc2018.carpentrycon.org
-baseurl: "/"
+baseurl:
 
 # Site settings
 title: CarpentryCon 2018 
